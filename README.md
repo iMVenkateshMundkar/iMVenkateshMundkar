@@ -2,7 +2,7 @@
 
 ## :white_medium_small_square: About me 🧑:
 
-I am Mohd Rihan Khan (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+I am Venkatesh Mundkar (he/him) from Maharashtra, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
 
