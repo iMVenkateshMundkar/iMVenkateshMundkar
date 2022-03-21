@@ -40,11 +40,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: Find Me on📱 :
 
 <div>
-  <a href="https://twitter.com/MohdRih06409125" target="_blank">
-    <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter logo" width="20" height="20"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/mohd-rihan-khan-6105a2173/" target="_blank">
+  <a href="https://www.linkedin.com/in/venkatesh-mundkar-2487b91b3/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
