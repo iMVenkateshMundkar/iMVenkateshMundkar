@@ -52,12 +52,3 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: Want to know more about me? :speech_balloon: :
 
 You can find my work on my <a href="" target="_blank">Portfolio</a>
-
-## :white_medium_small_square: GitHub Stats 📊 :
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iMVenkatesh&show_icons=true&theme=radical" height="255px" width="66.75%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMVenkatesh&theme=tokyonight" height="254px" width="27.5%" />
-
-</div>
