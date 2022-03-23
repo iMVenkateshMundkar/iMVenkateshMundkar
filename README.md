@@ -43,6 +43,9 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
   <a href="https://www.linkedin.com/in/venkatesh-mundkar-2487b91b3/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://twitter.com/iMVenkateshM22" target="_blank">
+    <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
 ## :white_medium_small_square: Want to know more about me? :speech_balloon: :
