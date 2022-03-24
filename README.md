@@ -12,9 +12,9 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 ## :white_medium_small_square: Hobbies :
 
-☕ Playing Cricket <br/>
-🏃‍♂️ Avid Runner </br>
-🧘‍♂️ Yoga lover
+ Playing Cricket <br/>
+ Avid Runner </br>
+ Yoga lover
 
 <!-- <div align="center">
   <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
