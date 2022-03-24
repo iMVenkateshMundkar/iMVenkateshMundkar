@@ -55,8 +55,8 @@ You can find my work on my <a href="https://practical-austin-0b6c05.netlify.app"
 ## :white_medium_small_square: GitHub Stats 📊 :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iMrihan&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iMVenkateshMundkat&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMrihan&theme=tokyonight" height="254px" width="27.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMVenkateshMundkar&theme=tokyonight" height="254px" width="27.5%" />
 
 </div>
