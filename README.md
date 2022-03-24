@@ -12,7 +12,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 ## :white_medium_small_square: Hobbies :
 
-☕ Espresso Enthusiast <br/>
+☕ Playing Cricket <br/>
 🏃‍♂️ Avid Runner </br>
 🧘‍♂️ Yoga lover
 
