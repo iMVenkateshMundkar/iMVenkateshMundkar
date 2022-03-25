@@ -41,10 +41,10 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 <div>
   <a href="https://www.linkedin.com/in/venkatesh-mundkar-2487b91b3/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgbnCAUiq8nvwzDbRMw__Wn3f3HhiLEMAVDIVM2IE8uCjGaEbsuQ_CyAYqsCKfrEZl3Q&usqp=CAU" alt="linkedin logo" width="20" height="20"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgbnCAUiq8nvwzDbRMw__Wn3f3HhiLEMAVDIVM2IE8uCjGaEbsuQ_CyAYqsCKfrEZl3Q&usqp=CAU" alt="linkedin logo" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://twitter.com/iMVenkateshM22" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6lMHdoGBTbg5rYGlo_5_fSyqEJpuFnIvoMR0eqy-mwxfErJUHdj_dPVs03x3U2r--w0&usqp=CAU" alt="twitter logo" width="30" height="30"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6lMHdoGBTbg5rYGlo_5_fSyqEJpuFnIvoMR0eqy-mwxfErJUHdj_dPVs03x3U2r--w0&usqp=CAU" alt="twitter logo" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
