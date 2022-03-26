@@ -50,7 +50,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 
 ## :white_medium_small_square: Want to know more about me? :speech_balloon: :
 
-<a href="https://practical-austin-0b6c05.netlify.app" target="_blank" style = "font-size:25px">Link for My Portfolio</a>
+<a href="https://venkateshmundkarportfolio.vercel.app/" target="_blank" style = "font-size:25px">Link for My Portfolio</a>
 
 ## :white_medium_small_square: GitHub Stats 📊 :
 
