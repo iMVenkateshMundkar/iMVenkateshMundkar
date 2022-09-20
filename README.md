@@ -94,7 +94,7 @@ organization.
 </p>
  
 <p>
-<a href="https://github.com/iMVenkateshMundkar"><span>
+<a href="https://github.com/itsyogihr13"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyogihr13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iMVenkateshMundkar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
@@ -102,13 +102,12 @@ organization.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr clear="both">
- <br/>
 <p align="center">
-<a href="https://github.com/iMVenkateshMundkar"><span>
+<a href="https://github.com/itsyogihr13"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMVenkateshMundkar&theme=dracula" />
 </span></a> </p>
+
+ <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iMVenkateshMundkar&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
