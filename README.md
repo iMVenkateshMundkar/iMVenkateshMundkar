@@ -109,8 +109,6 @@ organization.
 <a href="https://github.com/iMVenkateshMundkar"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMVenkateshMundkar&theme=dracula" />
 </span></a> </p>
-
- <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iMVenkateshMundkar&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
