@@ -36,7 +36,7 @@ organization.
    <a href="https://twitter.com/iMVenkateshM22">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
-  <a href="mundkarvenkatesh@gmail.com">
+  <a href="mailto:mundkarvenkatesh@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
   <a href="inkedin.com/in/venkatesh-mundkar-2487b91b3/">
