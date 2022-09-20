@@ -39,7 +39,7 @@ organization.
   <a href="mailto:mundkarvenkatesh@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
-  <a href="inkedin.com/in/venkatesh-mundkar-2487b91b3/">
+  <a href="linkedin.com/in/venkatesh-mundkar-2487b91b3/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
 </p>
