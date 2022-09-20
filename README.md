@@ -1,62 +1,121 @@
-### Hi there :wave:,
 
-## :white_medium_small_square: About me 🧑:
+<p align="right">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"
+   width="100%" height="auto">
+</p>
 
-I am Venkatesh Mundkar (he/him) from Maharashtra, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+<h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Venkatesh Mundkar </h1>
 
-I am skilled in HTML, CSS, Javascript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<h3><i>Happy Coding!</i> 😊</h3>
+<hr>
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-When I am not coding, I love reading📖, listening music🎧 and watching cartoons/animation movies🎥.
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;***About me ....***
 
-## :white_medium_small_square: Hobbies :
+Motivated, adaptable, and responsible Computer
+Engineer a Full Stack Developer seeking a
+position that utilizes technical and professional skills. Strong drive to see things to completion. Aiming to
+work with an organization that will help in showcasing
+my knowledge and skills following the latest
+technologies and be a part of a team that
+dynamically works towards the growth of the
+organization.
 
- Playing Cricket <br/>
- Avid Runner </br>
- Yoga lover
 
-<!-- <div align="center">
-  <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
-</div> -->
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
-## :white_medium_small_square: I am Skilled in :hammer: :
+ <hr>
 
-<div align="center">
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://reactnative.dev/img/header_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
-</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">&nbsp;***Connect with me ....*** 
 
-## :white_medium_small_square: Find Me on📱 :
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70">
 
-<div>
-  <a href="https://www.linkedin.com/in/venkatesh-mundkar-2487b91b3/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKgbnCAUiq8nvwzDbRMw__Wn3f3HhiLEMAVDIVM2IE8uCjGaEbsuQ_CyAYqsCKfrEZl3Q&usqp=CAU" alt="linkedin logo" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://twitter.com/iMVenkateshM22" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr6lMHdoGBTbg5rYGlo_5_fSyqEJpuFnIvoMR0eqy-mwxfErJUHdj_dPVs03x3U2r--w0&usqp=CAU" alt="twitter logo" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-</div>
 
-## :white_medium_small_square: Want to know more about me? :speech_balloon: :
+<p>
+   <a href="https://twitter.com/iMVenkateshM22">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+  </a>
+  <a href="mailto=mundkarvenkatesh@gmail.com">
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
+  </a>
+  <a href="inkedin.com/in/venkatesh-mundkar-2487b91b3/">
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+  </a>
+</p>
+<p align="right">
+  <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+</p>
 
-<a href="https://venkateshmundkarportfolio.vercel.app/" target="_blank" style = "font-size:25px">Link for My Portfolio</a>
 
-## :white_medium_small_square: GitHub Stats 📊 :
+<br>
+<br>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iMVenkateshMundkar&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+ <hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;My working tools..</h4>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+<hr>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMVenkateshMundkar&theme=tokyonight" height="254px" width="27.5%" />
 
-</div>
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{monumishra326}/count.svg" alt="monumishra326 :: Visitor's Count" /></p>
+
+<hr>
+<p align="left">
+ <img  width=250px height=250px alt="side_sticker" src="https://media3.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47n4v6ohha8p54r6n63f7dq0uj0g34xe0xnjpus45k&rid=giphy.gif&ct=g" />
+  
+</p>
+
+<p align="left">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
+
+<p align="center" >
+<img src="http://github-readme-streak-stats.herokuapp.com?user=iMVenkateshMundkar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+</p>
+ 
+<p>
+<a href="https://github.com/iMVenkateshMundkar"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyogihr13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iMVenkateshMundkar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/iMVenkateshMundkar"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMVenkateshMundkar&theme=dracula" />
+</span></a> </p>
+
+ <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monumishra326&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+
+<hr clear="both">
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/>
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
