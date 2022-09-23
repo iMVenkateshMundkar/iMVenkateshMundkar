@@ -33,7 +33,7 @@ organization.
 
 
 <p>
-   <a href="https://twitter.com/iMVenkateshM22">
+   <a target="_blank" href="https://twitter.com/iMVenkateshM22">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:mundkarvenkatesh@gmail.com">
